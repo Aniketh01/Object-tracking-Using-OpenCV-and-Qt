@@ -6,19 +6,19 @@
 
 #include <QtCore>
 #include <QFileDialog>
-#include <qmainwindow>
-#include <qpushbutton>
-#include <qlabel>
-#include <qimage>
-#include <qpixmap>
-#include <qslider>
-#include <qhboxlayout>
-#include <qapplication>
-#include <qkeyevent>
+#include <QMainWindow>
+#include <QPushButton>
+#include <QLabel>
+#include <QImage>
+#include <QPixmap>
+#include <QSlider>
+#include <QHBoxLayout>
+#include <QApplication>
+#include <QKeyEvent>
 #include <algorithm>
 #include <vector>
 #include <QtGui>
-#include <qwidget>
+#include <QWidget>
 #include <iostream>
 
 #include <opencv2/video/background_segm.hpp>
